@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+
+
+.background_image11{
+  background-image: url(./assets/photo/line11.png);
+  mask-repeat: no-repeat;
+}
+.background_image12{
+  background-image: url(./assets/photo/line12.png);
+  mask-repeat: no-repeat;
+}
+.background_image21{
+  background-image: url(./assets/photo/line21.png);
+  mask-repeat: no-repeat;
+}
+.background_image22{
+  background-image: url(./assets/photo/line22.png);
+  mask-repeat: no-repeat;
+}
+.background_image31{
+  background-image: url(./assets/photo/line31.png);
+  mask-repeat: no-repeat;
+}
+.background_image32{
+  background-image: url(./assets/photo/line32.png);
+  mask-repeat: no-repeat;
+}
