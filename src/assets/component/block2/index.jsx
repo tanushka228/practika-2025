@@ -34,8 +34,8 @@ const Block2 = () => {
     style={{
       marginLeft: 195,
       marginRight: 195,
-      columnGap: 10, // убираем промежутки между колонками
-      rowGap: 60     // убираем промежутки между рядами
+      columnGap: 10, 
+      rowGap: 60    
     }} >
 
     {services.map((service) => (
